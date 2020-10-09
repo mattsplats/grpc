@@ -49,3 +49,7 @@
 [submodule "third_party/libuv"]
 	path = third_party/libuv
 	url = https://github.com/libuv/libuv.git
+[submodule "third_party/multibuild"]
+	path = third_party/multibuild
+	url = https://github.com/matthew-brett/multibuild.git
+	branch = devel
